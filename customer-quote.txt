@@ -1,0 +1,144 @@
+
+    --------------------------------------
+        2191bf41-ce1e-427d-85c3-88d5a44680ae
+    --------------------------------------
+        Heating Loss: 29710.8
+        Warning: Could not find design region
+                 
+    --------------------------------------
+        4cb3820a-7bf6-47f9-8afc-3adcac8752cd
+    --------------------------------------
+        Estimated Heat Loss = 16412.5
+        Design Region = Severn Valley (Filton)
+        Power Heat Loss = 8.944141689373296
+        Recommended Heat Pump = 12kW Package
+        Cost Breakdown
+        
+         Design & Supply of your Air Source Heat Pump System Components (12kW)  5138 ,
+         Installation of your Air Source Heat Pump and Hot Water Cylinder  2900 ,
+         Supply & Installation of your Homely Smart Thermostat  150 ,
+         Supply & Installation of a new Consumer Unit  300 ,
+         MCS System Commissioning & HIES Insurance-backed Warranty  1648 
+        ...
+        Total Cost, including VAT =  10643
+    
+    --------------------------------------
+        3d8f19b0-3886-452d-a335-f3a2e7d9f5a5
+    --------------------------------------
+        Estimated Heat Loss = 11772
+        Design Region = Thames Valley (Heathrow)
+        Power Heat Loss = 5.790457452041318
+        Recommended Heat Pump = 8kW Package
+        Cost Breakdown
+        
+         Design & Supply of your Air Source Heat Pump System Components (8kW)  4216 ,
+         Installation of your Air Source Heat Pump and Hot Water Cylinder  2900 ,
+         Supply & Installation of your Homely Smart Thermostat  150 ,
+         Supply & Installation of a new Consumer Unit  300 ,
+         MCS System Commissioning & HIES Insurance-backed Warranty  1648 
+        ...
+        Total Cost, including VAT =  9675
+    
+    --------------------------------------
+        e21a3149-b88c-40e9-86fd-c94a6b93cb78
+    --------------------------------------
+        Estimated Heat Loss = 8905.6
+        Design Region = W Pennines (Ringway)
+        Power Heat Loss = 3.997127468581688
+        Recommended Heat Pump = 5kW Package
+        Cost Breakdown
+        
+         Design & Supply of your Air Source Heat Pump System Components (5kW)  3947 ,
+         Installation of your Air Source Heat Pump and Hot Water Cylinder  2900 ,
+         Supply & Installation of your Homely Smart Thermostat  150 ,
+         Supply & Installation of a new Consumer Unit  300 ,
+         MCS System Commissioning & HIES Insurance-backed Warranty  1648 
+        ...
+        Total Cost, including VAT =  9392
+    
+    --------------------------------------
+        b0ec94b6-ca15-4fb2-9ec7-7017f43080f4
+    --------------------------------------
+        Estimated Heat Loss = 30758.1
+        Design Region = W Scotland (Abbotsinch)
+        Power Heat Loss = 12.332838813151563
+        Recommended Heat Pump = 16kW Package
+        Cost Breakdown
+        
+         Design & Supply of your Air Source Heat Pump System Components (16kW)  5421 ,
+         Installation of your Air Source Heat Pump and Hot Water Cylinder  2900 ,
+         Supply & Installation of your Homely Smart Thermostat  150 ,
+         Supply & Installation of a new Consumer Unit  300 ,
+         MCS System Commissioning & HIES Insurance-backed Warranty  1648 
+        ...
+        Total Cost, including VAT =  10940
+    
+    --------------------------------------
+        3d8f19b0-3886-452d-a335-f3a2e7d9f5a5
+    --------------------------------------
+        Heating Loss: 29710.8
+        Warning: Could not find design region
+                 
+    --------------------------------------
+        3d8f19b0-3886-452d-a335-f3a2e7d9f5a5
+    --------------------------------------
+        Estimated Heat Loss = 11772
+        Design Region = Thames Valley (Heathrow)
+        Power Heat Loss = 5.790457452041318
+        Recommended Heat Pump = 8kW Package
+        Cost Breakdown
+        
+         Design & Supply of your Air Source Heat Pump System Components (8kW)  4216 ,
+         Installation of your Air Source Heat Pump and Hot Water Cylinder  2900 ,
+         Supply & Installation of your Homely Smart Thermostat  150 ,
+         Supply & Installation of a new Consumer Unit  300 ,
+         MCS System Commissioning & HIES Insurance-backed Warranty  1648 
+        ...
+        Total Cost, including VAT =  9675
+    
+    --------------------------------------
+        3d8f19b0-3886-452d-a335-f3a2e7d9f5a5
+    --------------------------------------
+        Heating Loss: 29710.8
+        Warning: Could not find design region
+                 
+    --------------------------------------
+        3d8f19b0-3886-452d-a335-f3a2e7d9f5a5
+    --------------------------------------
+        Estimated Heat Loss = 11772
+        Design Region = Thames Valley (Heathrow)
+        Power Heat Loss = 5.790457452041318
+        Recommended Heat Pump = 8kW Package
+        Cost Breakdown
+        
+         Design & Supply of your Air Source Heat Pump System Components (8kW)  4216 ,
+         Installation of your Air Source Heat Pump and Hot Water Cylinder  2900 ,
+         Supply & Installation of your Homely Smart Thermostat  150 ,
+         Supply & Installation of a new Consumer Unit  300 ,
+         MCS System Commissioning & HIES Insurance-backed Warranty  1648 
+        ...
+        Total Cost, including VAT =  9675
+    
+    --------------------------------------
+        3d8f19b0-3886-452d-a335-f3a2e7d9f5a5
+    --------------------------------------
+        Heating Loss: 29710.8
+        Warning: Could not find design region
+                 
+    --------------------------------------
+        3d8f19b0-3886-452d-a335-f3a2e7d9f5a5
+    --------------------------------------
+        Estimated Heat Loss = 11772
+        Design Region = Thames Valley (Heathrow)
+        Power Heat Loss = 5.790457452041318
+        Recommended Heat Pump = 8kW Package
+        Cost Breakdown
+        
+         Design & Supply of your Air Source Heat Pump System Components (8kW)  4216 ,
+         Installation of your Air Source Heat Pump and Hot Water Cylinder  2900 ,
+         Supply & Installation of your Homely Smart Thermostat  150 ,
+         Supply & Installation of a new Consumer Unit  300 ,
+         MCS System Commissioning & HIES Insurance-backed Warranty  1648 
+        ...
+        Total Cost, including VAT =  9675
+    
