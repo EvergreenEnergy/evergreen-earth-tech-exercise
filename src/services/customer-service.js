@@ -29,8 +29,6 @@ export const getCustomerByRegions = async () => {
 }
 
 export const getOutPutSummaryToCalculateCost = (cust, res) => {
-    console.log('cust.designRegion', cust.designRegion)
-    console.log('es.data.location.degreeDays', res.data.location.degreeDays)
 
     const heatLost = cust.floorArea * cust.heatingFactor * cust.insulationFactor //= heat loss (kWh)
     const powerHeatLoss = heatLost / res.data.location.degreeDays;

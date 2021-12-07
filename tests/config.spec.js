@@ -12,7 +12,6 @@ describe('should get customer data with given rigion', async () => {
              sinon.stub(axios, 'get')
             .returns(Promise.resolve({ status: 200, statusText: 'OK' }))
         const getData = await getCustomerByRegion('Thames Valley (Heathrow)')
-        console.log('get data', getData)
         expect(getData).to.deep.equal({ status: 200, statusText: 'OK' })
     });
     it('should return with status 404 AND statusText "error" if it exists', async () => {
