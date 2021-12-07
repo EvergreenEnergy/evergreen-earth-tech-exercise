@@ -1,4 +1,5 @@
-// import * as  customerRegion from '../../config.js';
-import axios from 'axios';
-import { readFile, truncate, appendFile } from 'fs/promises';
-import { getCustomerByRegion } from '../../config.js'
+import {getCustomerByRegionsOf} from './src/services/customer-service.js'
+import { config } from 'dotenv';
+config();
+console.log('running...')
+getCustomerByRegionsOf();
